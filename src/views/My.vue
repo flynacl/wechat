@@ -1,0 +1,15 @@
+<template>
+  <div>
+    <div>my</div>
+  </div>
+</template>
+
+<script>
+    export default {
+        name: "my"
+    }
+</script>
+
+<style scoped>
+
+</style>
